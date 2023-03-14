@@ -1,0 +1,75 @@
+body {
+    background-color: #2B3856;
+  }
+  
+  .css-image {
+    width: 100%;
+    height: 200px;
+    transform: translate(0%, 10%);
+  }
+  
+  .bar {
+    width: 100;
+    position: relative;
+    margin-top: -39%;
+  }
+  
+  .bar p{
+    margin-left: 20px;
+    color: white;
+    font-size: 13px;
+    
+  }
+  
+  .title {
+    width: 100;
+    position: relative;
+    margin-top: 10%;
+  }
+  
+  .title p{
+    margin-left: 20px;
+    color: white;
+    font-size: 35px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .parent{
+    position: relative;
+  }
+  
+  .imgb{
+    position: absolute;
+  }
+  
+  .imgc{
+    position: absolute;
+  }
+  
+  .imgd{
+    position: absolute;
+  }
+  
+  .logo{
+    width: 260px;
+    height: 220px;
+    transform: translate(115%, -97%);
+  }
+  
+  .contact-me{
+    width: 130px;
+    height: 45px;
+    transform: translate(20%, -92%);
+  }
+  
+  .blur{
+    width: 230px;
+    height: 300px;
+    transform: translate(0%, -82%);
+  }
+  
+  .blur2{
+    width: 100%;
+    height: 200px;
+    transform: translate(0%, -115%);
+  }
