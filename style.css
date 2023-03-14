@@ -3,9 +3,11 @@ body {
   }
   
   .css-image {
+    position: relative;
     width: 100%;
-    height: 200px;
-    transform: translate(0%, 10%);
+    height: 500px;
+    margin-top: 5%;
+   
   }
   
   .bar {
@@ -17,7 +19,7 @@ body {
   .bar p{
     margin-left: 20px;
     color: white;
-    font-size: 13px;
+    font-size: 25px;
     
   }
   
@@ -30,14 +32,14 @@ body {
   .title p{
     margin-left: 20px;
     color: white;
-    font-size: 35px;
+    font-size: 70px;
     font-family: "Times New Roman", Times, serif;
   }
   
   .parent{
     position: relative;
   }
-  
+
   .imgb{
     position: absolute;
   }
@@ -51,25 +53,25 @@ body {
   }
   
   .logo{
-    width: 260px;
-    height: 220px;
-    transform: translate(115%, -97%);
+    width: 500px;
+    height: 400px;
+    transform: translate(170%, -127%);
   }
   
   .contact-me{
-    width: 130px;
-    height: 45px;
-    transform: translate(20%, -92%);
+    width: 270px;
+    height: 100px;
+    transform: translate(20%, -120%);
   }
   
   .blur{
     width: 230px;
     height: 300px;
-    transform: translate(0%, -82%);
+    transform: translate(0%, -101%);
   }
   
   .blur2{
-    width: 100%;
+    width: 1500px;
     height: 200px;
-    transform: translate(0%, -115%);
+    transform: translate(0%, -255%);
   }
